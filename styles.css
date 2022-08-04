@@ -1,0 +1,112 @@
+body {
+    background: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+
+/* Start navbar */
+
+nav {
+    background-color: #6F8EBB;
+    height: 100%;
+    position: relative;
+    border-radius: 0 0 10px 10px;
+    padding: 15px 30px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
+.nav-link {
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 5px 30px;
+}
+
+
+/* End navbar */
+
+.form-name {
+    color: #737373;
+}
+
+.form-control {
+    color: #464646;
+    background: #EBF0F9;
+}
+
+
+/* for h6 class */
+
+.form {
+    color: #464646;
+}
+
+
+/* Start button */
+
+.btn {
+    background-color: #EC8154;
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+.btnl {
+    color: #464646;
+    margin: 2px 3px;
+    background: #EBF0F9;
+    border-radius: 5px;
+}
+
+
+/* End button */
+
+
+/* Start icon color */
+
+.edit {
+    color: #000000;
+}
+
+.icon {
+    color: #6F8EBB;
+}
+
+.plus {
+    color: #EC8154;
+}
+
+
+/* End icon color */
+
+.box {
+    background: #EBF0F9;
+    color: #595959;
+    border: 1px solid #627EA8;
+    margin-bottom: 3px;
+}
+
+.topic {
+    color: #EC8154;
+    text-align: center;
+}
+
+.feature {
+    color: #464646;
+    margin-bottom: 2px;
+}
+
+
+/* Table */
+
+td {
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #627EA8;
+    color: #627EA8;
+}
